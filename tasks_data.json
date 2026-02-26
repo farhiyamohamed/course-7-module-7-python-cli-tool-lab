@@ -9,6 +9,10 @@
       {
         "title": "Review code",
         "completed": true
+      },
+      {
+        "title": "Submit report",
+        "completed": true
       }
     ]
   }
