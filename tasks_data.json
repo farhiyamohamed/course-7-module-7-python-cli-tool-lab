@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Alice",
+    "tasks": [
+      {
+        "title": "Write unit tests",
+        "completed": false
+      },
+      {
+        "title": "Review code",
+        "completed": true
+      }
+    ]
+  }
+]
